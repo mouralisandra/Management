@@ -35,15 +35,15 @@
     }
 
     &.hero_slide-0::before {
-        content: "Over Ear";
+        content: "Get now";
     }
 
     &.hero_slide-1::before {
-        content: "In Ear";
+        content: "Best Seller";
     }
 
     &.hero_slide-2::before {
-        content: "Over Ear";
+        content: "Get now";
     }
 
     @include devices(lg) {

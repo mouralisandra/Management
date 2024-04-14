@@ -1,4 +1,4 @@
-import {FaShippingFast, FaShieldAlt, FaTags, FaCreditCard} from 'react-icons/fa';
+import {FaShippingFast, FaShieldAlt, FaTags, FaBtc} from 'react-icons/fa';
 
 const servicesData = [
     {
@@ -10,8 +10,8 @@ const servicesData = [
     {
         id: 2,
         icon: <FaShieldAlt />,
-        title: "Brand Warranty",
-        info: "100% Original products",
+        title: "Smart Contracts",
+        info: "Secure your deals with smart contracts",
     },
     {
         id: 3,
@@ -21,9 +21,9 @@ const servicesData = [
     },
     {
         id: 4,
-        icon: <FaCreditCard />,
-        title: "Secure Payments",
-        info: "SSL / Secure сertificate",
+        icon: <FaBtc />,
+        title: "Blockchain Payments",
+        info: "Support to various crypto-coins",
     },
 ];
 
