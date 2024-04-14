@@ -40,7 +40,7 @@ const Header = () => {
                     <div className="navbar">
                     <a href="/" className="navbar_logo"><img src={logoj} alt="JE Shop Logo"/></a>
                         <h2 className="nav_logo">
-                            <Link to="/">JEI Shop</Link>
+                            <Link to="/">FairChain Health</Link>
                         </h2>
                         <nav className="nav_actions">
                             <div className="search_action">
@@ -78,7 +78,7 @@ const Header = () => {
                                     <AiOutlineUser />
                                 </span>
                                 <div className="dropdown_menu">
-                                    <h4>JEI Shop {formUserInfo && <Link to="*">&nbsp;{formUserInfo}</Link>}</h4>
+                                    <h4>FairChain Health {formUserInfo && <Link to="*">&nbsp;{formUserInfo}</Link>}</h4>
                                     <p>Other Pages</p>
                                     {
                                         !formUserInfo && (

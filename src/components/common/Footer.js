@@ -20,10 +20,10 @@ const Footer = () => {
                 <div className="wrapper footer_wrapper">
                     <div className="foot_about">
                         <h2>
-                            <Link to="/">JEI SHOP</Link>
+                            <Link to="/">FairChain Health</Link>
                         </h2>
                         <div className="foot_subs">
-                            <p>Junior Entreprise INSAT Mini Project</p>
+                            <p>FairChain Health Team</p>
                            
                         </div>
                     </div>
