@@ -24,7 +24,7 @@ export const sortMenu = [
 export const brandsMenu = [
     {
         id: 1,
-        label: "JBL",
+        label: "Nettoyants",
         checked: false,
     },
     {
